@@ -5,10 +5,8 @@ export default function Home() {
         <div className="card-body">
           <h4 className="card-title">Julio Brazao</h4>
           <p className="card-text">Software Developer</p>
-          <button className="btn btn-primary btn-lg">
-            <i className="bi bi-chat-fill"></i>
-            &nbsp;
-            Talk to me!
+          <button className="btn btn-secondary btn-lg">
+            Contact
           </button>
         </div>
       </div>
